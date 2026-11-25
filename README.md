@@ -38,7 +38,7 @@ Everything runs client-side. No analytics, no cookies, no network calls, no loca
 
 ## Related
 
-- [slug-generator](https://github.com/0xelitesystem/slug-generator)
+- [title-to-url-slug](https://github.com/0xelitesystem/title-to-url-slug)
 - [uuid-and-ulid-generator](https://github.com/0xelitesystem/uuid-and-ulid-generator)
 
 ## More
