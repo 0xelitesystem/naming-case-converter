@@ -1,8 +1,8 @@
-# Case Converter
+# Naming Case Converter
 
 > Convert text between camelCase, snake_case, kebab-case, CONSTANT_CASE, and more.
 
-**Live demo:** https://0xelitesystem.github.io/case-converter/
+**Live demo:** https://0xelitesystem.github.io/naming-case-converter/
 
 Single HTML file. Runs in the browser with no build step, no server, no tracking, and no data leaving the page.
 
@@ -20,7 +20,7 @@ Single HTML file. Runs in the browser with no build step, no server, no tracking
 
 ## Use
 
-Open the hosted page: https://0xelitesystem.github.io/case-converter/
+Open the hosted page: https://0xelitesystem.github.io/naming-case-converter/
 
 Or download `index.html` and open it in any browser. It works offline.
 
@@ -48,8 +48,8 @@ Part of a catalog of single-file browser tools and plain-language references, al
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/case-converter
-cd case-converter
+git clone https://github.com/0xelitesystem/naming-case-converter
+cd naming-case-converter
 ```
 
 Open `index.html` in a browser, or serve the folder with `python -m http.server 8000` and visit http://localhost:8000.
